@@ -4,9 +4,7 @@ A Python system for generating animated videos with talking circular avatars (bo
 
 ## Example Output
 
-![Example Video](README_example/talking_bobs.mp4)
-
-<video src="README_example/talking_bobs.mp4" controls width="100%"></video>
+![Example Video](README_example/talking_bobs.gif)
 
 ## Mathematical Concepts
 
