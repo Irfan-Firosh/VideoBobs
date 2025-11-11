@@ -5,7 +5,7 @@ import numpy as np
 from typing import List, Tuple
 from pydub import AudioSegment
 
-from generator.video.normalvid import AudioProcessor
+from .normalvid import AudioProcessor
 from .chunked_audio_processor import ChunkedAudioProcessor
 from .video_generator import VideoGenerator
 

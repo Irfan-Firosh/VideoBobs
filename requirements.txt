@@ -4,4 +4,6 @@ opencv-python
 moviepy
 librosa
 scipy
+cartesia
+python-dotenv
 
