@@ -1,0 +1,7 @@
+numpy
+pydub
+opencv-python
+moviepy
+librosa
+scipy
+
