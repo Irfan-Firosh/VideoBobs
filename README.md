@@ -2,6 +2,12 @@
 
 A Python system for generating animated videos with talking circular avatars (bobs) that respond to audio energy through mathematical transformations.
 
+## Example Output
+
+![Example Video](README_example/talking_bobs.mp4)
+
+<video src="README_example/talking_bobs.mp4" controls width="100%"></video>
+
 ## Mathematical Concepts
 
 ### 1. RMS Energy Extraction
